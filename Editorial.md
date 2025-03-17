@@ -19,6 +19,9 @@ Handle the impossible case separately.
 <details>
 <summary>Hint 2</summary>
 
+
+
+
 If there remains at least $2$ socks of the same color, it is always possible.
 
 </details>
